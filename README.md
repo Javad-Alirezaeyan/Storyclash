@@ -5,9 +5,9 @@ This is a task for back-end and front-end
 
 <h3>Introduction</h3>
 You can see the online version here:
-  <a href="http://164.215.206.104" target="_blank">click here</a>
+  <a href="http://storyclash123.herokuapp.com/" target="_blank">click here</a>
 
-
+<b>Note</b>: The application may be loaded slowly because it is one of free hosts
 <hr />
 <h4> Technical</h4>  
 Used techniques are presented in the following:
